@@ -1,2 +1,2 @@
-# helloworld.py
-Hello world in python
+# helloworld in python
+print 'hello world'
